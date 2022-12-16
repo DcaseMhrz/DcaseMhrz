@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DcaseMhrz
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me : dcasemhrz@gmail.com 
 
